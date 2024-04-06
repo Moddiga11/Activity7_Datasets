@@ -1,13 +1,12 @@
-Car,Sales,Date
-Manufacturing,8500,1/1/2024
-Retail,9000,2/1/2024
-Healthcare,10500,3/1/2024
-Finance,12000,4/1/2024
-Transportation,3800,5/1/2024
-Contruction,4300,6/1/2024
-Education ,7800,7/1/2024
-Telecommunication,3200,8/1/2024
-Retail,3800,9/1/2024
-Healthcare,4300,10/1/2024
-Finance,7800,11/1/2024
-Transportation,2800,12/1/2024
+Car,Sales,Year
+Manufacturing,8500,2000
+Retail,9000,2001
+Healthcare,10500,2002
+Finance,12000,2003
+Transportation,3800,2004
+Contruction,4300,2005
+Education ,7800,2006
+Telecommunication,3200,2007
+Retail,3800,2008
+Healthcare,4300,2009
+Transportation,2800,2010
